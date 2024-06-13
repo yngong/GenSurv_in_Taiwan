@@ -1,1 +1,1 @@
-# Genomic Surveillance in Taiwan using nextstrain analysis
+# Genomic surveillance in Taiwan using nextstrain analysis
