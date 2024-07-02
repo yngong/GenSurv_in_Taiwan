@@ -14,8 +14,8 @@ This repository provides supplementary materials and ongoing updates associated 
 - Latest SARS-CoV-2 genomic data from Taiwan
 - Supplementary materials related to the review paper
 
-## drag and drop our JSON file onto the Auspice website to visualize Nextstrain analysis
-- https://auspice.us/
+## Data visualization
+- drag and drop our JSON file onto the Auspice website (https://auspice.us/) to visualize Nextstrain analysis
 
 ## Background
 To keep pace with the ongoing changes in the SARS-CoV-2 virus, we provide regular updates with the latest genomic data or analyses from Taiwan. This ensures that our analysis remains continuously aligned with the latest research.
