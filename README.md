@@ -20,6 +20,9 @@ This repository provides supplementary materials and ongoing updates associated 
 ## Background
 To keep pace with the ongoing changes in the SARS-CoV-2 virus, we provide regular updates with the latest genomic data or analyses from Taiwan. This ensures that our analysis remains continuously aligned with the latest research.
 
+## Supporting table in the manuscript
+Supporting Table 1. Acknowledgment table for all GISAID sequences and metadata used in this study.
+
 ## Citation (paper under review now)
 Yu-Nong Gong, Nai-Yu Kuo, Ting-Syuan Yeh, Shin-Ru Shih, and Guang-Wu Chen, Genomic Surveillance of SARS-CoV-2 in Taiwan: A Perspective on Evolutionary Data Interpretation and Sequencing Issues, 2024
 
