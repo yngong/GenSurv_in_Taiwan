@@ -1,11 +1,11 @@
 # Genomic Surveillance of SARS-CoV-2 in Taiwan: A Perspective on Evolutionary Data Interpretation and Sequencing Issues
-
-## Authors
-- Yu-Nong Gong
-- Nai-Yu Kuo
-- Ting-Syuan Yeh
-- Shin-Ru Shih
-- Guang-Wu Chen
+  * journal = {Biomedical Journal},
+  * pages = {100820},
+  * year = {2024},
+  * issn = {2319-4170},
+  * doi = {https://doi.org/10.1016/j.bj.2024.100820},
+  * url = {https://www.sciencedirect.com/science/article/pii/S2319417024001239},
+  * author = {Yu-Nong Gong and Nai-Yu Kuo and Ting-Syuan Yeh and Shin-Ru Shih and Guang-Wu Chen},
 
 ## Overview
 This repository provides supplementary materials and ongoing updates associated with our review paper titled **"Genomic Surveillance of SARS-CoV-2 in Taiwan: A Perspective on Evolutionary Data Interpretation and Sequencing Issues"**. The primary aim of this paper is to underscore the role of genomics in mapping the trajectory and evolution of SARS-CoV-2, offering valuable insights into evolutionary data science approaches to address its public health repercussions.
@@ -22,9 +22,6 @@ To keep pace with the ongoing changes in the SARS-CoV-2 virus, we provide regula
 
 ## Supporting table in the manuscript
 Supporting Table 1. Acknowledgment table for all GISAID sequences and metadata used in this study.
-
-## Citation (paper under review now)
-Yu-Nong Gong, Nai-Yu Kuo, Ting-Syuan Yeh, Shin-Ru Shih, and Guang-Wu Chen, Genomic Surveillance of SARS-CoV-2 in Taiwan: A Perspective on Evolutionary Data Interpretation and Sequencing Issues, 2024
 
 ## Contact
 For any inquiries or further information, please contact:
