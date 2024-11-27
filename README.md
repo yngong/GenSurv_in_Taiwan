@@ -5,7 +5,7 @@
   * issn = {2319-4170},
   * doi = {https://doi.org/10.1016/j.bj.2024.100820},
   * url = {https://www.sciencedirect.com/science/article/pii/S2319417024001239},
-  * author = {Yu-Nong Gong and Nai-Yu Kuo and Ting-Syuan Yeh and Shin-Ru Shih and Guang-Wu Chen},
+  * author = {Yu-Nong Gong and Nai-Yu Kuo and Ting-Syuan Yeh and Shin-Ru Shih and Guang-Wu Chen}
 
 ## Overview
 This repository provides supplementary materials and ongoing updates associated with our review paper titled **"Genomic Surveillance of SARS-CoV-2 in Taiwan: A Perspective on Evolutionary Data Interpretation and Sequencing Issues"**. The primary aim of this paper is to underscore the role of genomics in mapping the trajectory and evolution of SARS-CoV-2, offering valuable insights into evolutionary data science approaches to address its public health repercussions.
